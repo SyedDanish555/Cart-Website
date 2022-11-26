@@ -1,0 +1,164 @@
+#ib{
+    background-image:url(img/background1.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+#nav {
+    background-color: rgb(109, 7, 187);
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    opacity: 90%;
+    border-radius: 15px;
+}
+#logo2 img{
+    width: 253px;
+    height: 290px;
+    display: flex;
+    justify-content: center;
+    margin-left: 42%;
+}
+#i_txt{
+    margin: 80px;
+    padding: 30px;
+}
+
+#ul li {
+    float: left;
+    margin: auto 80px;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#ul {
+    overflow: auto;
+    margin-right: 40px;
+}
+
+#ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#ul li a:hover {
+    color: aqua;
+}
+
+#h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive;
+}
+
+.flex {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+#sub{
+    width: 70px;
+    margin-left: 36px;
+    background-color: cornflowerblue;
+    border-radius: 6px;
+}
+#sub:hover{
+    background-color: rgb(9, 165, 238);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#foo{
+    margin-top: 14.8%;
+   /* background-color: rgb(156, 247, 216); */
+}
+#fooH{
+    margin-top: 9.5%;
+}
+#logo{
+    width: 31px;
+    height: 39px;
+    margin-left: -529%;
+    margin-top: 5px;
+    filter: invert(131%);
+}
+#hb{
+    background-image:url(img/background1.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 230vh;
+}
+.products{
+    width: 100%;
+    height: 100%;
+}
+.iteams img{
+    width: 400px;
+}
+.iteams1 img{
+    width: 307px;
+}
+.iteams2 img{
+    width: 257px;
+}
+.iteams3 img{
+    width: 428px;
+}
+.iteams4 img{
+    width: 313px;
+}
+
+           /* css for products */
+#p_flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.p_iteams{
+    border: 1px solid black;
+    width: 400px;
+    height: 600px;
+    padding: 50px;
+}
+.p_iteams img{
+    width: 171px;
+    height: 330px;
+}
+.btn{
+    margin-left: 108px;
+    background-color: #b341d3;
+    border-radius: 7px;
+}
+.btn:hover{
+    background-color: rgb(9, 165, 238);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+            /* Css for About us  */
+
+.A_p{
+    padding: 78px;
+    font-size: 106%;
+}
+
+              /* css for Contact us */
+.c_d{
+    display: flex;
+    justify-content: center;
+    margin-top: 11%;
+    font-size: large;
+   
+}
+
+#bbb{
+    width: 70px;
+    margin-left: 36px;
+    background-color: cornflowerblue;
+    border-radius: 6px;
+}
+#bbb:hover{
+    background-color: rgb(9, 165, 238);
+    transform: scale(1.1);
+    cursor: pointer;
+}
